@@ -1,0 +1,30 @@
+{
+  "name": "async-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olivierandriessen/async-page.git"
+  },
+  "author": "= <=> (=)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olivierandriessen/async-page/issues"
+  },
+  "homepage": "https://github.com/olivierandriessen/async-page#readme",
+  "dependencies": {
+    "babel": "^6.5.2",
+    "jquery": "^3.1.0",
+    "react": "^15.2.1",
+    "react-dom": "^15.2.1",
+    "webpack": "^1.13.1"
+  },
+  "devDependencies": {
+    "babel-loader": "^6.2.4",
+    "babel-preset-es2015": "^6.9.0"
+  }
+}
